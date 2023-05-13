@@ -20,8 +20,8 @@
 #define PI 3.14159265359
 char lon [20]={0};
 char lat [20]={0};
-double destLat   = 29.9786380 ;
-double destLon   = 31.4759907 ;
+double destLat   = 0 ; //Enter your destination latitude
+double destLon   = 0 ; //Enter your destination longitude
 double y=0;
 
 //-----------------------------------------------------------------------------------------------
